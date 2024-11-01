@@ -1,0 +1,17 @@
+{
+    "name": "ide-interactive/simple-logo-carousel",
+    "description": "A simplistic carousel to elegantly display logos. Powered by slick.",
+    "type": "project",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "IDE Interactive",
+            "email": "hello@ideinteractive.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"PLSimpleLogoCarousel\\": "./includes"}
+    }
+}
